@@ -1,0 +1,39 @@
+# 001 First Prompt
+Write a one-paragraph story about a cat who saves the day.
+Do it again, but it’s not about a cat, but about a dog.
+
+# 002 Example Discover
+I am looking for unmet needs or problems around <problem area> that a new product could address
+What are some emerging trends or technologies around <problem area> that could be leveraged for new product ideas?
+What are the customer pain points that a product around <problem area> should address?
+# 003 Example Define
+Which customer pain points around <problem area> are most prevalent?
+Which customer pain points around <problem area> have the most impact?
+# 004 Example Develop
+What features or functionalities should we include in our product for <problem area>
+What would be a unique value proposition for our product around <problem area>?
+# 005 Example Deliver
+What would a business model canvas for a product around <problem area> look like?
+What would an outline of a pitch deck for our product around <problem area> look like?
+What are the most effective ways to launch and promote our product around <problem area>?
+
+# 006 Bad Prompt 1
+Come up with a new product
+# 007 Better Prompt 1
+Give me three different ideas for a new digital product around fashion
+
+# 008 Bad Prompt 2
+Create a product idea, it is about fashion or mobility or something, and it needs to be super effective. Or no, wait, it needs to be super stylish.
+# 009 Better Prompt 2
+I’m looking for three product ideas that are stylish and fashionable and really help people in public transport.
+
+# 010 Bad Prompt 3
+Come up with an idea for a product around education
+# 011 Better Prompt 3
+I’m looking for a new product idea aimed at 1-3 year old kids, that supports them in their education. It should be fun, colorful and friendly.
+
+# 012 Cool stuff to try
+Ask ChatGPT to generate a unique recipe for a new, unheard-of dish that no one has ever tasted before.
+Challenge ChatGPT to write a personalized story based on a few keywords you provide.
+Ask ChatGPT to create an original poem based on a particular topic or theme, and see how creative and imaginative it can be.
+Try asking ChatGPT to create a new game or puzzle, and see if it can come up with something that is both fun and challenging to play.
