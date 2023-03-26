@@ -1,1 +1,68 @@
 # Chapter 4.1 Define
+
+# 4.2.01
+From the original table with 5 common sleeping problems, create a matrix. Horizontally
+list all the main effects on daily life from the table: cardiovascular issues, concentrating
+difficulty, disrupted work/school performance, excessive daytime sleepiness, fatigue,
+hallucinations, insomnia, irritability, memory problems, mood changes, morning
+headaches, reduced work performance, reduced work/school performance, sleep
+attacks, sleep disruption, sleep paralysis. Vertically list the sleeping problems. In each
+cell, give a score for the relevance. 1 if the effect is highly relevant, 0 if not relevant.
+Output as CSV
+
+# 4.2.02
+Create a matrix with horizontally professions: Shift Workers, Business Travelers, Military
+Personnel, Nurses, Medical Residents. Vertically the sleeping problems. In each cell,
+give a score for the relevance based on the percentage of each group affected. 1 if
+100% is affected, 0 if 0 %. Output as a table
+
+# 4.2.03
+Extract and categorize the Job To Be Done column. Change the Job To Be Done
+description into an activity the persona has to do themselves. Categorize along the
+following structure: Jobs to Define, Locate, Prepare, Confirm, Modify, Monitor, Execute,
+Conclude. Also include the touch point as a column
+
+# 4.2.04
+Recall the list of existing solutions we found earlier, as a table.
+Only list the top 5 solutions by number of downloads.
+
+# 4.2.05
+For each touch point of the customer journey generated, describe the touch point,
+mood, job to be done, and cross reference the touch point with this list of 5 existing
+solutions we found earlier. For each touch point, list which specific existing solutions
+apply. Give the result as a matrix. Horizontally, show the existing solutions. Vertically,
+touch points. For each solution, enter 1 if the solution applies. 0 otherwise.
+
+# 4.2.06
+Describe Shift Workers and how they suffer from Circadian Rhythm Disorder. Include
+the term Shift Work Sleep Disorder
+
+# 4.2.07
+Who are the potential customers for a product that helps with shift work sleep
+disorder?
+
+# 4.2.08
+What are the biggest common denominators in terms of shift work sleep disorder for the potential customers? The
+potential customers are: Nurses and other healthcare workers, Truck drivers, Factory workers, Emergency responders, Call
+center workers, Retail workers, Airline pilots and flight attendants, Security personnel, Hospitality workers, Freelancers and
+gig workers.
+
+# 4.2.09
+Based on Shift Workers, the personas, come up with MoSCoW design criteria. List at
+least 4 Musts, Shoulds, Clouds, Won’ts. Include as Must: large potential market, digital
+solution and high effectiveness. Include as Should criteria around ease of use, personal
+preferences. Include as Could specific features. Include as Won't: specialized devices,
+medical treatments. Output the results as a table.
+
+# 4.2.10
+Define the Shift Workers problem in the following format:
+Problem: Clearly state the problem that your product or service is attempting to solve
+in a concise manner.
+Target audience: Define the specific group of people or customers who are
+experiencing this problem and would benefit from your solution.
+Impact: Describe the negative consequences that arise from not solving this problem
+for the target audience.
+Solution: Provide a brief overview of the solution that you are proposing to solve the
+problem. Use the MoSCoW design criteria to describe the solution, do NOT include a
+specific solution.
+

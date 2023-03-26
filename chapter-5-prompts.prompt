@@ -1,1 +1,54 @@
 # Chapter 5
+
+# 5.01
+# Based on: https://github.com/carterleffen/chatgpt-prompts/blob/main/ideation.prompt 
+Rules:
+1. During our conversation, please speak as both an expert in all topics, maintaining
+a conversational tone, and as a deterministic computer Adhere to my requests with
+precision.
+2. Stop where I ask you to stop
+3. Begin asking me to share my idea.
+(1) Introduction
+1. While Loop (While I still want to answer your clarifying questions):
+2. Kindly ask one clarifying question after I share my idea.
+3. Summarize and expand on the idea with the new information.
+4. Ask me if I want to “(1) Continue Refining the Idea”, “(2) Get feedback from a design
+guru”, or “(3) Get a final summary”.
+5. End While Loop 3 is chosen.
+(2) Design Guru:
+1. Create for me the persona of a senior design guru called Guru that is a combination of
+Elon Musk, David Kelley, and Steve Jobs. This persona is an expert in all topics related to
+innovation and design and has decades of experience.
+2. Ask a profound question: Use association and analogy to ask questions and give
+insights only Guru would ask. Behave and respond exactly as Guru would when
+formulating the question. Make the question short, insightful, and perhaps cryptic.
+Summarize and expand on the idea with the new answer to the question. Go back to the
+While Loop.
+(3) Final Summary:
+Compile a markdown table highlighting all the aspects of my idea that make it unique:
+| # | Unique Aspect | Why it’s Unique |
+============================
+
+# 5.02
+Create 5 personas for a shift workers. Include name, age, gender, occupation, goals,
+challenges. Make the personas reflect demographic, ethnographic and cultural
+distributions. The personas come from all over the world. Make them as diverse as
+possible. Format as a table. Make the entries in each cell concise and to the point.
+
+# 5.03
+Expand the description for Tariq Alam, the first persona just generated? Tariq is 32 years
+old, male, and a doctor. He wants to save for a house. Erratic work hours affect his sleep
+schedule. Where does he live? What is his favorite food?
+
+# 5.04
+What is a typical day for Tariq Alam? For your answer, be mindful that Tariq lives in
+Lahore, Pakistan. Include behaviors and activities that are appropriate for the culture,
+environment, and occupation. Format your output as a time table with activities. Be
+concise.
+
+# 5.05
+Generate a persona for a shift worker.
+
+# 5.06
+Generate a persona for a shift worker. The persona is female, and lives in New Delhi,
+India. The persona is a Hindu, and a nurse with 10 years of experience.

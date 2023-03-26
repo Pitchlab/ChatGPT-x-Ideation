@@ -1,1 +1,43 @@
 # Chapter 7
+
+# 7.01
+Create 5 personas. Each persona is a shift worker or business traveler suffering from Circadian Rhythm Disorder. Describe
+the persona. Give them a name, age, profession. For each persona include how it affects their daily life and the impact.
+Also include a quote from the persona on the problem. Output as a table.
+
+# 7.02
+I want to create user interviews to do user research on people suffering from Circadian Rhythm Disorders. For this, I want
+to create interview questions. Create 10 questions for this interview. Focus on questions that highlight recent experiences.
+For each question also describe how the answers will help understand user needs, behaviors, and motivations.
+
+# 7.03
+Generate the touchpoints in a customer journey for sufferers of Circadian Rhythm Disorder. Focus on the personas of
+Sarah, Emily, and Olivia. For each touchpoint, include mood, how they are impacted, their goal, attempted solutions or
+treatments. Note the best moments to engage and when the personas will feel biggest relief. Give the result as a table.
+Columns: Touchpoint, Situation, Impact, Attempted solutions or treatments, Mood (1-10), Moment to engage (True/False).
+For each moment, list the Jobs to be Done from the JTBD framework
+
+# 7.04
+I want to create a survey to do user research on people suffering from Circadian Rhythm Disorders. For this, I want to
+create a survey. Create around 10 questions for this survey. Focus on questions that highlight recent experiences. For
+each question also describe how the answers will help understand user needs, behaviors, and motivations.
+
+# 7.05
+Answer the following questions for ChronoGuruX to create a Value Proposition Canvas. Customer Jobs: What tasks or jobs
+does the customer need to accomplish?
+Customer Pains: What frustrations or difficulties do customers encounter when trying to complete these tasks or jobs?
+Customer Gains: What benefits or outcomes does the customer hope to achieve by completing these tasks or jobs?
+Products and Services: What specific products or services does our company offer that can help the customer complete
+their jobs?
+Pain Relievers: How do our products or services alleviate or solve the customer's pains?
+Gain Creators: How do our products or services create or amplify the customer's gains?
+
+# 7.06
+Describe a Business Model Canvas for ChronoGuru
+
+# 7.07
+Generate the outline of a 10 slide pitch deck for investors for ChronoGuruX
+
+# 7.08
+Create the content for slide 2: Problem: Highlight the challenges shift workers face with their sleep patterns
+

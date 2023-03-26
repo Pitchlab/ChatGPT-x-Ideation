@@ -1,1 +1,97 @@
 # Chapter 4.4 Deliver
+
+# 4.4.01 
+We have the following Mini Proposition in the Mad Lib format: We have observed
+that managing sleep patterns is challenging for shift workers who struggle with
+maintaining a healthy and consistent sleep schedule due to their varying work hours.
+ChronoGuruX is a mobile app that provides personalized recommendations for sleep,
+diet, and exercise based on advanced algorithms and DNA analysis to optimize their
+sleep and performance. Unlike traditional sleep tracking apps, our product focuses
+specifically on the unique needs of shift workers, offering tailored features such as light
+therapy, soundscapes, and meditation to enhance their overall sleep experience.
+Create 5 questions tailored for user testing. The goal is to get insightful feedback from
+a user about a mini proposition. Use open ended questions. For each question, specify
+why that question is useful.
+
+# 4.4.02
+Come up with 3 shift worker personas. Make them very different from each other in
+terms of age, background, gender, and profession. For each of these personas, first
+have them look at the ChronoGuruX mini proposition, and then answer the 5 questions
+above. Format your output as a table. Include name, age, gender, profession, and the
+answers to each question. For each persona, use a single row.
+
+# 4.4.03
+Come up with 2 revenue streams for ChronoGuruX. For each, come up with a price
+point, a percentage of users that will purchase, and number of purchases per year.
+
+# 4.4.04
+Estimate the development and operational costs for ChronoGuruX. Give initial costs,
+recurring costs, and marketing costs.
+
+# 4.4.05
+Using the results for costs and revenue streams, create a business case for
+ChronoGuruX for 3 years. Assume we capture 0.01% of the market at first, so 70,000
+users, and eventually we capture 0.1%, so 700,000 users. Give your result as a table,
+vertically list user base, revenue and costs, horizontally year 1, year 2, year 3
+
+# 4.4.06
+Generate a brand description for ChronoGuruX. Include the brand name, its vision,
+mission, and values, the unique selling proposition or key differentiator, the target
+audience or buyer persona, brand personality, and tone of voice.
+
+# 4.4.07
+Generate an app description for ChronoGuruX, keeping in mind the brand description
+
+# 4.4.08
+Create three simulated personas, Alex, Brenda and Charlie, who all suffer from shift
+work sleep disorder. Give each persona a gender, age, and profession based on
+the professions most likely to suffer from shift work sleep disorder. Make them each
+different. Describe their primary symptoms and how shift work sleep disorder affects
+them.
+
+# 4.4.09
+Generate 3 positive and 3 negative things that Alex, Brenda and Charlie would feel, say,
+do, and think when they use the app ChronoGuruX, with the following description:
+ChronoGuruX is the ultimate app for shift workers who struggle with their sleep
+patterns. Using advanced algorithms and DNA analysis, the app identifies the user's
+ChronoType and provides personalized recommendations for sleep, diet, and exercise.
+With features like light therapy, soundscapes, and meditation, ChronoGuruX helps
+shift workers optimize their sleep and performance. The app uses a combination of
+user input and DNA analysis to determine the user's ChronoType, which refers to their
+individual internal clock and sleep-wake cycle.
+Once the ChronoType is identified, the app offers personalized sleep
+recommendations, such as ideal sleep times, duration, and nap schedules. The app
+also provides customized recommendations for diet and exercise, based on the user's
+ChronoType and their daily routine.
+ChronoGuruX offers various features to help improve sleep quality, such as light
+therapy, which uses exposure to natural light to help regulate the user's internal clock.
+The app also includes a variety of soundscapes designed to promote relaxation
+and restful sleep, along with guided meditations and breathing exercises. The app
+also includes AI-powered chatbots that provide instant feedback and suggestions.
+ChronoGuruX is designed with a sleek and modern interface, featuring cuttingedge
+graphics and animations. With its focus on optimizing sleep and performance,
+ChronoGuruX can be a valuable tool for not just shift workers, but anyone looking to
+improve their sleep habits and overall health.
+
+# 4.4.10
+Create a list of key features of ChronoGuruX and explain how they work.
+
+# 4.4.11
+Create the Apple App Store description for ChronoGuruX.
+
+# 4.4.12
+Create the content for the ChronoGuruX Landing Page. Include the name of each page
+section or element and the content for that element. Include the Call to Action
+
+# 4.4.13
+Create copy and image descriptions for 3 advertisements to be run on Instagram.
+Make each ad focus on a different feature of ChronoGuruX.
+
+# 4.4.14 (Midjourney prompt)
+/imagine A nurse at home, sleeping soundly after her night shift, eyes closed, happy,
+with a phone next to them displaying the ChronoGuruX app in a single, warm color,
+no interface elements. The phone is the only light source. Warm, orange light. Shot on
+Afga Vista 200, cinematic, photograph, cover photo. The phone displays a single, warm
+color. --v 5 --ar 3:2
+
+

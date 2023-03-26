@@ -1,1 +1,110 @@
 # Chapter 4.1 Discover
+# 4.1.01
+List the top 5 most common sleeping problems that people face, sorted by the
+number of people that suffer from it. Output the result as a table with columns
+sleeping problem, typical groups of people suffering, estimated size of the number
+of sufferers worldwide, percentage of global population, main causes, main effects
+on daily life. Format the column 'Estimated Size of Sufferers Worldwide' as a plain
+number in millions, e.g. 770. Format the column 'percentage of global population' as a
+percentage, e.g. 75%.
+
+# 4.1.02
+Create a PESTEL analysis around sleeping problems. Format your output as a table. Use
+the following columns: Factor, Examples, Trends.
+
+# 4.1.03
+Cross reference the trends from the PESTEL analysis with the most common sleeping
+problems you generated earlier. Format the output as a table with columns: sleeping
+disorder, PESTEL factor, cross-referenced trends, estimated impact of this trend (high,
+medium, low). For each sleeping problem, include cross referenced trends for each
+PESTEL factor.
+
+# 4.1.04
+Create a table with the most common sleeping problems. Include the stakeholders
+that are impacted. Stakeholders include people and organizations suffering from the
+problem directly and indirectly. Also include the level of impact (low, medium, high).
+Output your result as a table with columns: Sleeping Disorder, Stakeholders, Impact,
+Level of impact. For each sleeping disorder, list each group of stakeholders separately.
+
+# 4.1.05
+What groups of people, professions, or age groups experience these sleeping disorders
+the most? Include Military Personnel and Business Travelers. Create a table with 5
+professions. Columns: profession, most common sleeping problem, estimated size
+of the profession worldwide (millions), percentage of sufferers worldwide, number of
+sufferers. Sort descending by number of sufferers.
+
+# 4.1.06
+Add two columns with percentage of smart phone owners and number of
+smartphone owners
+
+# 4.1.07
+I want to create user interviews to do user research on people suffering from Circadian
+Rhythm Disorders. For this, I want to create a survey. Create 10 questions for this
+interview. Focus on questions that highlight recent experiences. For each question also
+describe how the answers will help understand user needs, behaviors, and motivations.
+
+# 4.1.08
+Create 5 personas. Each persona is a shift worker or business traveler suffering from
+Circadian Rhythm Disorder. Describe the persona. Give them a name, age, profession.
+For each persona include how it affects their daily life and the impact. Also include a
+quote from the persona on the problem. Output as a table.
+
+# 4.1.09
+For this next prompt, impersonate the generated personas. Answer the interview
+questions generated. Behave, respond and write as each persona would, in their words
+and tone of voice. Format the result as a table. Columns: Question, Sarah, Mark, Emily,
+David, Olivia
+
+# 4.1.10
+I want to test if the generated interview questions are understandable by the target
+audience. For each of the questions, for each persona, come up with ways in which
+the persona might misunderstand or misinterpret the question. Also include how
+likely this is to happen. Format the result as a table, with columns Question number,
+Misunderstandings, Likelihood
+
+# 4.1.11
+For question 3, update the question to make sure the target audience understands the
+question is about their personal attempts to improve sleep.
+
+# 4.1.12
+Cluster the personas based on the interview results. For each cluster list included
+personas, and give a short description as well as common properties and most similar
+answers.
+
+# 4.1.13
+For each question, for each persona’s answer, give a sentiment score. Output your
+result as csv format.
+
+# 4.1.14
+Summarize the persona of Sarah based on her interview results.
+Present the updated description.
+
+# 4.1.15
+List the treatments and solutions the personas mentioned in the interview results by
+category. For each category, give the treatments or solutions mentioned, and a total
+count of how often it was mentioned.
+
+# 4.1.16
+Generate the touchpoints in a customer journey for sufferers of Circadian Rhythm Disorder. Focus on the personas of
+Sarah, Emily, and Olivia. For each touchpoint, include mood, how they are impacted, their goal, attempted solutions or
+treatments. Note the best moments to engage and when the personas will feel biggest relief. Give the result as a table.
+Columns: Touchpoint, Situation, Impact, Attempted solutions or treatments, Mood (1-10), Moment to engage (True/False)
+
+# 4.1.17
+Now, we want to look at existing digital solutions for the Circadian Rhythm Disorder
+sleeping problems Emily, Sarah and Olivia are suffering from. What existing digital
+solutions exist?
+
+# 4.1.18
+What non-digital solutions exist that might be adapted to a digital result?
+
+# 4.1.19
+Create one list of existing digital solutions and existing solutions that might be
+digitized. Categorize each solution by the categories mentioned above: Sleep
+Schedule, Sleep Aids, Supplements & Caffeine Avoidance, Exercise & Relaxation, Sleep
+Environment, Sleep Tracking, Support / Social, Work Schedule. Output as a table.
+
+# 4.1.20
+For the existing digital solutions give an estimate of the number of users. Output
+as a table. Columns: solution, number of downloads (Million), year released. Sort
+descending by number of downloads.
